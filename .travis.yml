@@ -8,7 +8,7 @@ sudo: required
 notifications:
   email:
     recipients:
-      - itsvavalol@gmail.com
+      - eva.ong@ncs.com.sg
     on_success: always
     on_failure: always
 branches:
